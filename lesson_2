@@ -2,3 +2,5 @@
 把逻辑上相同的更改，先从working directory放入staging area, 然后一并提交
 比如要增加某一个功能，需要修改好几个文件，则把对这几个文件的修改都放入staging area, 再一并提交
 
+图表如何帮助你直观显示分支结构?
+可以看出每个commit的parent, 看出总共有几个分支
